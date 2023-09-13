@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tacostrophe
 - 👀 I’m interested in becoming helpful and mighty in narrow area
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning ~~Python~~ Node.js
 - 💞️ I’m looking to collaborate on something you'll let me
 - 📫 How to reach me: Telegram: @tacostrophe
 
